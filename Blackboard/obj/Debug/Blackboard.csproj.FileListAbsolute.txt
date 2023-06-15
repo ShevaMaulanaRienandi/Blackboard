@@ -1,0 +1,11 @@
+D:\SHEVA MAULANA RIENANDI AMIKOM\SEMESTER II\System Oprasi\Blackboard\Blackboard\obj\Debug\Blackboard.csproj.AssemblyReference.cache
+D:\SHEVA MAULANA RIENANDI AMIKOM\SEMESTER II\System Oprasi\Blackboard\Blackboard\obj\Debug\Blackboard.csproj.SuggestedBindingRedirects.cache
+D:\SHEVA MAULANA RIENANDI AMIKOM\SEMESTER II\System Oprasi\Blackboard\Blackboard\obj\Debug\Blackboard.Form1.resources
+D:\SHEVA MAULANA RIENANDI AMIKOM\SEMESTER II\System Oprasi\Blackboard\Blackboard\obj\Debug\Blackboard.Properties.Resources.resources
+D:\SHEVA MAULANA RIENANDI AMIKOM\SEMESTER II\System Oprasi\Blackboard\Blackboard\obj\Debug\Blackboard.csproj.GenerateResource.cache
+D:\SHEVA MAULANA RIENANDI AMIKOM\SEMESTER II\System Oprasi\Blackboard\Blackboard\obj\Debug\Blackboard.csproj.CoreCompileInputs.cache
+D:\SHEVA MAULANA RIENANDI AMIKOM\SEMESTER II\System Oprasi\Blackboard\Blackboard\bin\Debug\Blackboard.exe.config
+D:\SHEVA MAULANA RIENANDI AMIKOM\SEMESTER II\System Oprasi\Blackboard\Blackboard\bin\Debug\Blackboard.exe
+D:\SHEVA MAULANA RIENANDI AMIKOM\SEMESTER II\System Oprasi\Blackboard\Blackboard\bin\Debug\Blackboard.pdb
+D:\SHEVA MAULANA RIENANDI AMIKOM\SEMESTER II\System Oprasi\Blackboard\Blackboard\obj\Debug\Blackboard.exe
+D:\SHEVA MAULANA RIENANDI AMIKOM\SEMESTER II\System Oprasi\Blackboard\Blackboard\obj\Debug\Blackboard.pdb
